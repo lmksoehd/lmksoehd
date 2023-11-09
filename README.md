@@ -1,4 +1,8 @@
-### Hi 👋
+### 🚀🚀 Let's go 🚀🚀🚀
+
+
+
+👋
 
 <!--
 **lmksoehd/lmksoehd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +19,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&animation=fadeIn&height=200&section=header&text=%20Wtime%20&fontSize=70&)
-<img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=C++&logoColor=black"/>
+
+#💻Skills
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
+#Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=black)
+
+#📱Contacts
+
+<a href="https://github.com/lmksoehd">   
+<img        
+  src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://github.com/lmksoehd"        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
