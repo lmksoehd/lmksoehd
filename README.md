@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **lmksoehd/lmksoehd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=Waving&animation=fadeIn&height=200&section=header&text=%20Wtime%20&fontSize=70&)
+<img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=C++&logoColor=black"/>
