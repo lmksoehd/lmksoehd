@@ -36,7 +36,10 @@ Here are some ideas to get you started:
 
 #📱Contacts
 
-<a href="https://github.com/lmksoehd">   
+<a href="https://blog.naver.com/what_time_17">   
 <img        
-  src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://github.com/lmksoehd"        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://blog.naver.com/what_time_17"        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> <a href="lmkseohd@gmail.com">   
+<img        
+  src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lmksoehd@gmail.com"        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
